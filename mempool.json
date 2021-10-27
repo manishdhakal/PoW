@@ -1,0 +1,27 @@
+[
+    {
+        "sender":"Manish Dhakal",
+        "reciever": "Arman Chhetri",
+        "amount": 670
+    },
+    {
+        "sender":"Arman Chhetri",
+        "reciever": "Aman Gupta",
+        "amount": 10
+    },
+    {
+        "sender":"Prabin LC",
+        "reciever": "Rabin",
+        "amount": 500
+    },
+    {
+        "sender":"Samip Puodel",
+        "reciever": "Nirajan",
+        "amount": 100
+    },
+    {
+        "sender":"Baral",
+        "reciever": "Dhakal",
+        "amount": 3656
+    }
+]
