@@ -13,7 +13,7 @@ Proof-of-work is a powerful mechanism to reach consensus or agree upon a decisio
 
 ### Code
 ##### Prerequisites
-- **Python Interpreter**
+- Python Interpreter
 
 ##### Run code
 This code can be run in your local machine by running the following commands in computer terminal:
